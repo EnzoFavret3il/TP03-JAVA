@@ -8,11 +8,13 @@ public class Main {
 		b.initialise(1,2);
 		b.afficher();*/
 		
-		/*Exo 1.2*/
+		/*Exo 1.2
 		PointNom test=new PointNom(5,6,"LETEST");
 		test.setPointNom(9, 8, "LETEST2");
 		test.setNom("LETEST3");
-		test.affCoordNom();
+		test.affCoordNom();*/
+		
+		
 	}
 
 }
